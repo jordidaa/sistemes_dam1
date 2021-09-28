@@ -1,5 +1,4 @@
 <link href="../css/style.css" rel="stylesheet" type="text/css">
-<script src="../includes/img.js" language="Javascript"></script>
 <link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css'>
 <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.11.2/css/bootstrap-select.min.css'>
 <link rel="icon" type="image/png" href="/sistemes_dam1/images/logo.png" />
