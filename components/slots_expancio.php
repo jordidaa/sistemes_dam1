@@ -12,7 +12,7 @@
         <div class="center">
                 <div class="pagination">
                     <a href="#" class="fletxas"><!--&laquo;--></a>
-                    <a href="jornada2.php" class="fletxas">Jornada 2 &raquo; </a>
+                    <a href="jornada2.php" class="fletxas">Disc + Connexions Integrades Internes de Disc Dur + Placa &raquo; </a>
                 </div>
         </div>
         <img id="myImg" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:300px">
