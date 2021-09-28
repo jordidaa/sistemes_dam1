@@ -26,29 +26,8 @@
             </div>
         </div>
         <h1 class="titolcp">PCIe x16</h1>
-        <div class="col-6">
-            <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
-
-            <!-- The Modal -->
-            <div id="myModal" class="modal">
-              <span class="close">&times;</span>
-              <img class="modal-content" id="img01">
-              <div id="caption"></div>
-            </div>
-        </div></div>
-        <div class="col-6">
-        <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
-
-            <!-- The Modal -->
-            <div id="myModal" class="modal">
-              <span class="close">&times;</span>
-              <img class="modal-content" id="img01">
-              <div id="caption"></div>
-            </div>
-        </div>
-        </div>
+        <div class="col-sm-5 col-md-6">.col-sm-5 .col-md-6</div>
+        <div class="col-sm-5 col-md-6">.col-sm-5 .col-md-6</div>
 
 
 <script>
