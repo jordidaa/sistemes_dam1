@@ -10,21 +10,23 @@
         <h1 class="margin_top"></h1>
         <!--index-->
         <div class="center">
-                <div class="pagination">
-                    <a href="#" class="fletxas"><!--&laquo;--></a>
-                    <a href="jornada2.php" class="fletxas">Disc + Connexions Integrades Internes de Disc Dur + Placa &raquo; </a>
-                </div>
+            <div class="pagination">
+                <a href="#" class="fletxas"><!--&laquo;--></a>
+                <a href="jornada2.php" class="fletxas">Disc + Connexions Integrades Internes de Disc Dur + Placa &raquo; </a>
+            </div>
         </div>
         <div class="imgcent">
-        <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
 
-        <!-- The Modal -->
-        <div id="myModal" class="modal">
-          <span class="close">&times;</span>
-          <img class="modal-content" id="img01">
-          <div id="caption"></div>
+            <!-- The Modal -->
+            <div id="myModal" class="modal">
+              <span class="close">&times;</span>
+              <img class="modal-content" id="img01">
+              <div id="caption"></div>
+            </div>
         </div>
-        </div>
+        <h1 class="titolcp">PCIe x16</h1>
+
 <script>
 // Get the modal
 var modal = document.getElementById("myModal");
