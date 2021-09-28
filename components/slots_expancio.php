@@ -15,8 +15,8 @@
                     <a href="jornada2.php" class="fletxas">Disc + Connexions Integrades Internes de Disc Dur + Placa &raquo; </a>
                 </div>
         </div>
-        <div class="">
-        <img id="myImg" class="imgCent" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
+        <div class="imgcent">
+        <img id="myImg" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
 
         <!-- The Modal -->
         <div id="myModal" class="modal">
