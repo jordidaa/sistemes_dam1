@@ -36,7 +36,11 @@
               <div id="caption"></div>
             </div>
         </div></div>
-        <div class="col-sm-5 col-md-6">.col-sm-5 .col-md-6</div>
+        <div class="col-sm-5 col-md-6"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor orci id lorem rhoncus, vitae euismod ex vestibulum. Integer scelerisque, lacus vel finibus feugiat, nisl nulla pulvinar odio, aliquam dignissim augue turpis hendrerit lorem. Aenean sodales ante eu vulputate sodales. Sed suscipit odio a ullamcorper congue. Maecenas sit amet justo elit. Praesent feugiat massa et mi placerat consequat vitae eget velit. Curabitur volutpat semper erat suscipit vulputate. Quisque finibus tempus commodo. Ut neque metus, eleifend in ultrices convallis, porttitor at eros. In semper ligula sem, quis sagittis ipsum tincidunt vitae. Nullam consequat sapien et ipsum tincidunt, a aliquam sapien tristique. Phasellus non erat a arcu aliquam consectetur. In hac habitasse platea dictumst. Donec vulputate lectus at tortor ullamcorper malesuada.
+
+Pellentesque euismod iaculis semper. Nulla imperdiet accumsan massa, sed sagittis ante viverra eget. Ut ac mauris porta, imperdiet arcu sed, auctor magna. Phasellus egestas vestibulum libero, non pretium urna mollis quis. Aliquam sodales dolor ut placerat vestibulum. Curabitur volutpat eros urna, vestibulum scelerisque mauris elementum non. Etiam vitae sagittis ligula, non fermentum libero. Vivamus velit turpis, sagittis eu dui aliquam, laoreet luctus felis. Sed molestie ipsum id elit dignissim fermentum. Donec hendrerit justo imperdiet condimentum gravida. Quisque eu cursus ligula.
+
+Proin bibendum maximus accumsan. Suspendisse et neque quam. Donec nulla massa, tincidunt eu mollis ac, vulputate sed nulla. Integer hendrerit sed est a commodo. Sed condimentum erat porttitor, condimentum nulla in, ullamcorper felis. Suspendisse elementum ex nec volutpat mollis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec mattis, magna varius vestibulum fringilla, lectus dolor imperdiet nisi, sit amet porta tellus ex vel urna. Praesent consequat orci vitae mi interdum, ut dapibus mi euismod. Vivamus et risus lorem. Duis eget tortor volutpat, pulvinar justo eget, placerat mi. Maecenas fermentum felis quis leo sagittis, eget iaculis nunc maximus. Maecenas in lacus quam. Sed enim nunc, malesuada vitae nisi at, rhoncus laoreet lectus.</p></div>
 
 
 <script>
