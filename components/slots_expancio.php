@@ -15,7 +15,7 @@
                     <a href="jornada2.php" class="fletxas">Jornada 2 &raquo; </a>
                 </div>
         </div>
-        <img id="myImg" src="../images/pb_sf.jpg" alt="Snow" style="width:100%;max-width:300px">
+        <img id="myImg" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:300px">
 
 <!-- The Modal -->
 <div id="myModal" class="modal">
