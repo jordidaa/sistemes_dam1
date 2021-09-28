@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li>
-                    <a href="/index.php">Inici<!--<img src="/estadisticas-futbol/imatges/logo.png" width= "20px" >--></a>
+                    <a href="sistemesdam1.herokuapp.com">Inici<!--<img src="/estadisticas-futbol/imatges/logo.png" width= "20px" >--></a>
                 </li>
                 <!--<li>
                     <a href="#" class="dropdown-toggle firstlevel" data-toggle="dropdown"><img src="/estadisticas-futbol/imatges/banderas/es.png" width= "20px" > <b class="caret"></b></a>
