@@ -112,10 +112,10 @@
           </div>
         </div>
         </div>
-        <!--<div class="col-sm-5 col-md-6 cent md">
+        <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/pci_ex1.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">M.2</h1>
+        <!--<h1 class="titolcp">M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
