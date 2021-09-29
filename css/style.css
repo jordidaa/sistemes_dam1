@@ -43,6 +43,7 @@ border: 1px solid #4CAF50;
 .imgcent1{
   align-items: center;
   margin: 0 auto;
+  margin-left: 37%;
 }
 .modal-backdrop {
   position: fixed;
