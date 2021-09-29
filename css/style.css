@@ -41,6 +41,7 @@ border: 1px solid #4CAF50;
     margin-bottom: 40px !important;
     margin-left: 25px !important;
     text-align: center;
+    font-size: 30px;
 }
 .imgcent1{
   align-items: center;
@@ -77,7 +78,8 @@ border: 1px solid #4CAF50;
 .cent p {
   margin-left: 25px;
   margin-right: 25px;
-  margin-bottom: 10px;
+  margin-bottom: 25px;
+  font-size: 20px;
 }
 .md{
   height: 200px;
