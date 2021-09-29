@@ -17,7 +17,7 @@
             </div>
         </div>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:500px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
