@@ -47,7 +47,7 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-            El PCI expres x 16 vol dir que té 16 canals de transferència de dades.
+            El PCI expres x16 vol dir que té 16 canals de transferència de dades.<br>
             Hi ha diferents tipus de versió de pci expres:
               <ul>
                 <li>El que a la placa base és gris, és versió 4.0 i va a una velocitat de 31,51 GB/s.</li>
