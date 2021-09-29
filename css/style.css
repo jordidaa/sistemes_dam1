@@ -41,5 +41,5 @@ border: 1px solid #4CAF50;
       margin-left: 25px !important;
   }
   .modal-backdrop {
-    background-color: none !important;
+    background-color: transparent !important;
 }
