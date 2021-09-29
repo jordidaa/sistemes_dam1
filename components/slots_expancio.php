@@ -102,9 +102,9 @@
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/pci_ex1.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">PCIe x16</h1>
+        <h1 class="titolcp">M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/pci_ex16.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus tempor orci id lorem rhoncus, vitae euismod ex vestibulum. Integer scelerisque, lacus vel finibus feugiat, nisl nulla pulvinar odio, aliquam dignissim augue turpis hendrerit lorem. Aenean sodales ante eu vulputate sodales. Sed suscipit odio a ullamcorper congue. Maecenas sit amet justo elit. Praesent feugiat massa et mi placerat consequat vitae eget velit. Curabitur volutpat semper erat suscipit vulputate. Quisque finibus tempus commodo. Ut neque metus, eleifend in ultrices convallis, porttitor at eros. In semper ligula sem, quis sagittis ipsum tincidunt vitae. Nullam consequat sapien et ipsum tincidunt, a aliquam sapien tristique. Phasellus non erat a arcu aliquam consectetur. In hac habitasse platea dictumst. Donec vulputate lectus at tortor ullamcorper malesuada.
         </p>
@@ -119,10 +119,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Modal Header</h4>
+                <h4 class="modal-title">M.2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/pci_ex16.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
