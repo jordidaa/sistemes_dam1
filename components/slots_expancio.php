@@ -8,6 +8,7 @@
         <!--menu-->
         <?php include ('../includes/menu.php') ?>
         <h1 class="margin_top"></h1>
+        <h1 class="titolcp">Slots d’Expansió a la PB + Placa</h1>
         <!--index-->
         <div class="center">
             <div class="pagination">
