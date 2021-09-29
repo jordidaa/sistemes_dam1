@@ -19,9 +19,9 @@
             <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
 
             <!-- The Modal -->
-            <div id="myModal" class="modal">
+            <div id="myModal">
               <span class="close">&times;</span>
-              <img class="modal-content" id="img01">
+              <img id="img01">
               <div id="caption"></div>
             </div>
         </div>
