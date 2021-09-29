@@ -49,8 +49,7 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat.<br>
-          Va a una velocitat de 6 Gbit/s.
+          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat, va a una velocitat de 6 Gbit/s.
           </p>
 
         <!-- Trigger the modal with a button -->
