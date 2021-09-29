@@ -47,13 +47,13 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-            Hi han diferents tipus de varcio de pci expres:
+            El PCI expres x 16 vol dir que té 16 canals de transferència de dades.
+            Hi ha diferents tipus de versió de pci expres:
               <ul>
-                <li>El que a la placa base es gris, es vercio 4.0 i va a una velocitat de 31,51 GB/s</li>
-                <li>Els que a la placa base son negres, son vercio 3.0 i va a una velocitat de 15,75 GB/s</li>
+                <li>El que a la placa base és gris, és versió 4.0 i va a una velocitat de 31,51 GB/s.</li>
+                <li>Els que a la placa base són negres, són versió 3.0 i va a una velocitat de 15,75 GB/s.</li>
               </ul>
-              Velocitat: gris 4,0: 31,51 GB/s
-              2x negres 3,0: 15,75 GB/s
+              
           </p>
 
         <!-- Trigger the modal with a button -->
