@@ -29,7 +29,7 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Veure imatge gran</h4>
+                <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
                 <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
@@ -58,7 +58,7 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Modal Header</h4>
+                <h4 class="modal-title">PCIe x16</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/pci_ex16.png" alt="Placa base" style="width:100%;max-width:600px"> 
@@ -86,7 +86,7 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Modal Header</h4>
+                <h4 class="modal-title">PCIe x1</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/pci_ex1.png" alt="Placa base" style="width:100%;max-width:600px"> 
