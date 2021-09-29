@@ -84,3 +84,6 @@ border: 1px solid #4CAF50;
 .md{
   height: 250px;
 }
+div img {
+  vertical-align: middle;
+}
