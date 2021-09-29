@@ -79,7 +79,7 @@
         <h1 class="titolcp">SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 pero perd velocitat perque sha de conectar a partir de un cable<br>
+        El SATA 3 va a la mateixa velocitat que M.2 pero perd velocitat perque sha de conectar a partir de un cable.<br>
         Va a una velocitat de 6 Gbit/s.
         </p>
         <!-- Trigger the modal with a button -->
