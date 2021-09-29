@@ -48,7 +48,7 @@
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
             El PCI expres x16 vol dir que té 16 canals de transferència de dades.<br>
-            Hi ha diferents tipus de versió de pci expres:
+            Hi ha diferents tipus de versió de pci expres en aquesta placa base:
               <ul>
                 <li>El que a la placa base és gris, és versió 4.0 i va a una velocitat de 31,51 GB/s.</li>
                 <li>Els que a la placa base són negres, són versió 3.0 i va a una velocitat de 15,75 GB/s.</li>
@@ -82,7 +82,9 @@
         </div>
         <h1 class="titolcp">PCIe x1</h1>
         <div class="col-sm-5 col-md-6 cent md">
-        <p>Velocitat: 3,0: 15,75 GB/s
+        <p>
+        El PCI expres x1 vol dir que té 1 canal de transferència de dades.<br>
+        En aquesta placa base es la varcio 3.0 i va a una velocitat de 15,75 GB/s
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
