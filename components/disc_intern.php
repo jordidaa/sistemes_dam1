@@ -49,13 +49,8 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-            El PCI expres x16 vol dir que té 16 canals de transferència de dades.<br>
-            Hi ha diferents tipus de versió de pci expres en aquesta placa base:
-              <ul>
-                <li>El que a la placa base és gris, és versió 4.0 i va a una velocitat de 31,51 GB/s.</li>
-                <li>Els que a la placa base són negres, són versió 3.0 i va a una velocitat de 15,75 GB/s.</li>
-              </ul>
-              
+          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat.<br>
+          Va a una velocitat de 6 Gbit/s.
           </p>
 
         <!-- Trigger the modal with a button -->
