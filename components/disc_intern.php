@@ -16,7 +16,7 @@
                 <a href="disc_extern.php" class="fletxas">Disc + Connexions Integrades Externes de Disc Dur + Placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Slots d’Expansió a la PB + Placa</h1>
+        <h1 class="titolcp">Disc + Connexions Integrades Internes de Disc Dur + Placa</h1>
         <div class="imgcent">
             <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
