@@ -19,10 +19,10 @@
             <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
         </div>
         <!-- Trigger the modal with a button -->
-        <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button>
+        <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Open Modal</button>
 
 <!-- Modal -->
-<div class="modal fade centbtn" id="myModal" role="dialog">
+<div class="modal fade" id="myModal" role="dialog">
   <div class="modal-dialog">
 
     <!-- Modal content-->

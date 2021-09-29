@@ -54,3 +54,7 @@ border: 1px solid #4CAF50;
   z-index: 1040;
   background-color: transparent !important;
 }
+.centbtn{
+  align-items: center;
+  margin: 0 auto;
+}
