@@ -160,6 +160,9 @@
           </div>
         </div>
         </div>
+        <div class="col-sm-5 col-md-6 cent md">
+          <img id="myImg" class="imgcent2" src="../images/pci_ex16.png" alt="Placa base" style="width:100%;max-width:250px">
+        </div>
     </body>
     <?php include ('../includes/meta_footer.php') ?>
 </html>
