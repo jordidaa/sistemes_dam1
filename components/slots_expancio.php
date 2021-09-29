@@ -19,7 +19,7 @@
             <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
         </div>
         <!-- Trigger the modal with a button -->
-        <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Open Modal</button>
+        <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
 
 <!-- Modal -->
 <div class="modal fade" id="myModal" role="dialog">
@@ -32,7 +32,7 @@
         <h4 class="modal-title">Veure imatge gran</h4>
       </div>
       <div class="modal-body">
-        <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
+        <img id="myImg" class="imgcentbtn" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
