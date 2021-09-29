@@ -18,12 +18,15 @@
         <div class="imgcent">
             <img id="myImg" class="imgcent1" src="../images/pb_sf.jpg" alt="Placa base" style="width:100%;max-width:500px">
 
-            <!-- The Modal -->
-            <div id="myModal">
-              <span class="close">&times;</span>
-              <img id="img01">
-              <div id="caption"></div>
+            <!-- Large modal -->
+          <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bd-example-modal-lg">Large modal</button>
+          <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg">
+              <div class="modal-content">
+                ...
+              </div>
             </div>
+          </div>
         </div>
         <h1 class="titolcp">PCIe x16</h1>
         <div class="col-sm-5 col-md-6">
