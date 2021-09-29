@@ -75,6 +75,7 @@ border: 1px solid #4CAF50;
 }
 .cent{
   text-align: center;
+  display: inline-block;
 }
 .cent p {
   margin-left: 25px;
