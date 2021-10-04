@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home</title>
+        <title>Inici</title>
         <?php include ('includes/meta_heder.php') ?>
     </head>    
     <body>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Home</title>
+        <title>Slots d’Expansió</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
