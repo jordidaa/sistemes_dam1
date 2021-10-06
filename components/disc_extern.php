@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Disc durs interns</title>
+        <title>Disc durs externs</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
