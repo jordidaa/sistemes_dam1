@@ -17,9 +17,9 @@
             Slots d’Expansió a la PB + Placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Disc + Connexions Integrades Internes de Disc Dur + Placa</h1>
+        <h1 class="titolcp">Disc + Connexions Integrades Externes de Disc Dur + Placa</h1>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
@@ -35,7 +35,7 @@
                 <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
-                <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
+                <img id="myImg" class="imgcentbtn" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:600px">
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
