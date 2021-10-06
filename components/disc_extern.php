@@ -12,8 +12,8 @@
         <!--index-->
         <div class="center">
             <div class="pagination">
-            <a href="slots_expancio.php" class="fletxas">&laquo; Disc + Connexions Integrades Internes de Disc Dur + Placa</a>
-                <a href="disc_extern.php" class="fletxas">Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
+            <a href="disc_intern.php" class="fletxas">&laquo; Disc + Connexions Integrades Internes de Disc Dur + Placa</a>
+                <a href="#" class="fletxas">Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
             Slots d’Expansió a la PB + Placa &raquo; </a>
             </div>
         </div>
