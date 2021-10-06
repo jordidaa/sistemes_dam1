@@ -79,7 +79,7 @@
         <h1 class="titolcp">SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 pero perd velocitat perque sha de conectar a partir de un cable.<br>
+        El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
         Va a una velocitat de 6 Gbit/s.
         </p>
         <!-- Trigger the modal with a button -->
@@ -115,7 +115,11 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat, va a una velocitat de 6 Gbit/s.
+          Aquest disc dur M.2 té diferents velocitats d'escriptura i lectura:
+            <ul>
+              <li>Té una velocitat d'escriptura de 530 MB/s.</li>
+              <li>Té una velocitat de lectura de 560 MB/s.</li>
+            </ul>
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -145,8 +149,11 @@
         <h1 class="titolcp">Disc dur SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 pero perd velocitat perque sha de conectar a partir de un cable.<br>
-        Va a una velocitat de 6 Gbit/s.
+        Aquest disc dur SATA 3 té diferents velocitats de lectura, escriptura i a les revolucions que van:
+            <ul>
+              <li>Té una velocitat d'escriptura i de lectura de 150 MB/s.</li>
+              <li>El disc dur va a 7200 revolucions per minut.</li>
+            </ul>
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>
