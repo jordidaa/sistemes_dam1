@@ -50,9 +50,9 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          L'HDMI es una manera de conectar la placa base a una pantalla, va sortir al marcat el 2003.<br>
-          L'HDMI trasmateix so i video.<br>
-          Te una maxima resolucio de 2560x1440p60.
+          L'HDMI és una manera de connectar la placa base a una pantalla, va sortir al marcat el 2003.<br>
+          L'HDMI tanmateix so i vídeo.<br>
+          Té una màxima resolució de 2560x1440p60.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -82,9 +82,9 @@
         <h1 class="titolcp">DisplayPort</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p> 
-          El DisplayPort es una manera de conectar la placa base a una pantalla, va sortir al marcat el 2008.<br>
-          El DisplayPort trasmateix so i video.<br>
-          Te una maxima resolucio de 4096 x 2160.
+        El DisplayPort és una manera de connectar la placa base a una pantalla, va sortir al marcat el 2008.<br>
+          El DisplayPort tanmateix so i vídeo.<br>
+          Té una màxima resolució de 4096 x 2160.
           </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
