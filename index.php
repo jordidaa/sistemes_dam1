@@ -12,7 +12,7 @@
         <p class="index"><a href="components/slots_expancio.php">Slots d’Expansió a la PB + Placa</a></p>
         <p class="index"><a href="components/disc_intern.php">Disc + Connexions Integrades Internes de Disc Dur + Placa</a></p>
         <p class="index"><a href="components/disc_extern.php">Disc + Connexions Integrades Externes de Disc Dur + Placa</a></p>
-        <p class="index"><a href="">Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
+        <p class="index"><a href="components/tc_disc_dur.php">Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
             Slots d’Expansió a la PB + Placa</a></p>
         <p class="index"><a href="">Connexions de Video Integrades + Placa</a></p>
         <p class="index"><a href="">Targes de Video + Slots d’Expansió a la PB + Placa</a></p>
