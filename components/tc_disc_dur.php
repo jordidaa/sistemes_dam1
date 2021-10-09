@@ -49,8 +49,8 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Targeta de ampliacio de usb per conexio de disc durs externs.
-          La conexio es fa a partir de PCIe x1
+          Targeta de ampliacio de usb per conexio de disc durs externs.<br>
+          La conexio es fa a partir de PCIe x1.
           </p>
 
         <!-- Trigger the modal with a button -->
