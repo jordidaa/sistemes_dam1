@@ -151,7 +151,7 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Disc dur SATA 3</h1>
+        <!--<h1 class="titolcp">Disc dur SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
         Aquest disc dur SATA 3 té diferents velocitats de lectura, escriptura i a les revolucions que van:
@@ -159,34 +159,34 @@
               <li>Té una velocitat d'escriptura i de lectura de 150 MB/s.</li>
               <li>El disc dur va a 7200 revolucions per minut.</li>
             </ul>
-        </p>
+        </p>-->
         <!-- Trigger the modal with a button -->
-          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>
+          <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>-->
 
         <!-- Modal -->
-        <div class="modal fade" id="myModal4" role="dialog">
-          <div class="modal-dialog">
+        <!--<div class="modal fade" id="myModal4" role="dialog">
+          <div class="modal-dialog">-->
 
             <!-- Modal content-->
-            <div class="modal-content">
+            <!--<div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Disc dur SATA 3</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/sata_3_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
-              </div>
+              </div>-->
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-            </div>
+            <!--</div>
 
           </div>
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/sata_3_dd.png" alt="Placa base" style="width:100%;max-width:250px">
-        </div>
+        </div>-->
     </body>
     <?php include ('../includes/meta_footer.php') ?>
 </html>
