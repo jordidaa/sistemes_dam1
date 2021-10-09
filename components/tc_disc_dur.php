@@ -50,7 +50,8 @@
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
           Targeta de ampliacio de usb per conexio de disc durs externs.<br>
-          La conexio es fa a partir de PCIe x1.
+          La conexio es fa a partir de PCIe x1.<br>
+          Te una velocitat de transferencia de dades de 5 Gbit/s
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -77,11 +78,12 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">SATA 3</h1>
+        <h1 class="titolcp">M.2 a PCIe x4</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
-        Va a una velocitat de 6 Gbit/s.
+          Targeta de ampliacio de disc durs M.2.<br>
+          La conexio es fa a partir de PCIe x4.<br>
+          Te una velocitat de transferencia de dades de 6 Gbit/s.
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
@@ -94,10 +96,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">SATA 3</h4>
+                <h4 class="modal-title">M.2 a PCIe x4</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/m_2_expan.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -108,20 +110,18 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/m_2_expan.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Disc dur M.2</h1>
+        <h1 class="titolcp">Disc dur a PCIe x2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <p> 
-          Aquest disc dur M.2 té diferents velocitats d'escriptura i lectura:
-            <ul>
-              <li>Té una velocitat d'escriptura de 530 MB/s.</li>
-              <li>Té una velocitat de lectura de 560 MB/s.</li>
-            </ul>
-          </p>
+        <p>
+          Targeta de ampliacio de disc durs HDD i SSD.<br>
+          La conexio es fa a partir de PCIe x2.<br>
+          Te una velocitat de transferencia de dades de 6 Gbit/s.
+        </p>
 
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
@@ -134,10 +134,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Disc dur M.2</h4>
+                <h4 class="modal-title">Disc dur a PCIe x2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
