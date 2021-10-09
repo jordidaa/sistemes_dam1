@@ -82,11 +82,10 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">SATA 3</h1>
+        <h1 class="titolcp">Disc dur extern 3.1 gen 1</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
-        Va a una velocitat de 6 Gbit/s.
+        Aquest disc dur 3.1 gen 1 va a una velocitat de 5000 Mbit/s.
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
@@ -99,10 +98,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">SATA 3</h4>
+                <h4 class="modal-title">Disc dur extern 3.1 gen 1</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -113,18 +112,18 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_3_0.png.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Disc dur M.2</h1>
+        <h1 class="titolcp">Disc dur extern 3.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Aquest disc dur M.2 té diferents velocitats d'escriptura i lectura:
+          Aquest disc dur extern 3.2 té diferents velocitats d'escriptura i lectura:
             <ul>
-              <li>Té una velocitat d'escriptura de 530 MB/s.</li>
-              <li>Té una velocitat de lectura de 560 MB/s.</li>
+              <li>Té una velocitat d'escriptura de 1000 MB/s.</li>
+              <li>Té una velocitat de lectura de 1050 MB/s.</li>
             </ul>
           </p>
 
@@ -139,10 +138,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Disc dur M.2</h4>
+                <h4 class="modal-title">Disc dur extern 3.2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
