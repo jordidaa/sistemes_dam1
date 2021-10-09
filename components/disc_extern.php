@@ -112,7 +112,7 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/dd_3_0.png.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <h1 class="titolcp">Disc dur extern 3.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
