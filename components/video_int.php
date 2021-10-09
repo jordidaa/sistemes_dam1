@@ -50,9 +50,9 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Targeta de ampliacio de usb per conexio de disc durs externs.<br>
-          La conexio es fa a partir de PCIe x1.<br>
-          Te una velocitat de transferencia de dades de 5 Gbit/s
+          L'HDMI es una manera de conectar la placa base a una pantalla, va sortir al marcat el 2003.<br>
+          L'HDMI trasmateix so i video.<br>
+          Te una maxima resolucio de 2560x1440p60.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -81,11 +81,11 @@
         </div>
         <h1 class="titolcp">DisplayPort</h1>
         <div class="col-sm-5 col-md-6 cent md">
-        <p>
-          Targeta de ampliacio de disc durs M.2.<br>
-          La conexio es fa a partir de PCIe x4.<br>
-          Te una velocitat de transferencia de dades de 6 Gbit/s.
-        </p>
+        <p> 
+          El DisplayPort es una manera de conectar la placa base a una pantalla, va sortir al marcat el 2008.<br>
+          El DisplayPort trasmateix so i video.<br>
+          Te una maxima resolucio de 4096 x 2160.
+          </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
 
