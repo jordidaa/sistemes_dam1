@@ -49,7 +49,8 @@
           <img id="myImg" class="imgcent2" src="../images/usb.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <p> 
+          <p>
+          Serveix per connectar perifèrics: teclat, ratoli, disc dur, usb ... <br>
           Hi ha diferents tipus de usb que tenen diferents velocitats segons la versió:
             <ul>
               <li>El USB 2.0 (el de color negre) té una velocitat de 480 Mb/s.</li>
