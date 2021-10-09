@@ -49,9 +49,9 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Targeta de ampliacio de usb per conexio de disc durs externs.<br>
-          La conexio es fa a partir de PCIe x1.<br>
-          Te una velocitat de transferencia de dades de 5 Gbit/s
+          Targeta d'ampliació d'USB per connexió de disc durs externs.<br>
+          La connexió es fa a partir de PCIe x1.<br>
+          Té una velocitat de transferència de dades de 5 Gbit/s
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -81,9 +81,9 @@
         <h1 class="titolcp">M.2 a PCIe x4</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Targeta de ampliacio de disc durs M.2.<br>
-          La conexio es fa a partir de PCIe x4.<br>
-          Te una velocitat de transferencia de dades de 6 Gbit/s.
+          Targeta d'ampliació de disc durs M.2.<br>
+          La connexió es fa a partir de PCIe x4.<br>
+          Té una velocitat de transferència de dades de 6 Gbit/s.
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
@@ -118,9 +118,9 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Targeta de ampliacio de disc durs HDD i SSD.<br>
-          La conexio es fa a partir de PCIe x2.<br>
-          Te una velocitat de transferencia de dades de 6 Gbit/s.
+          Targeta d'ampliació de disc dur HDD i SSD.<br>
+          La connexió es fa a partir de PCIe x2.<br>
+          Té una velocitat de transferència de dades de 6 Gbit/s.
         </p>
 
         <!-- Trigger the modal with a button -->
