@@ -13,7 +13,7 @@
         <div class="center">
             <div class="pagination">
                 <a href="tc_disc_dur.php" class="fletxas">&laquo;Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
-                Slots d’Expansió a la PB + Placa</a></p>
+                Slots d’Expansió a la PB + Placa</a>
                 <a href="#" class="fletxas"> Targes de Video + Slots d’Expansió a la PB + Placa &raquo; </a>
             </div>
         </div>
