@@ -50,10 +50,11 @@
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Aquest disc dur M.2 té diferents velocitats d'escriptura i lectura:
+          Hi ha diferents tipus de usb que tenen diferents velocitats segons la versió:
             <ul>
-              <li>Té una velocitat d'escriptura de 530 MB/s.</li>
-              <li>Té una velocitat de lectura de 560 MB/s.</li>
+              <li>El USB 2.0 (el de color negre) té una velocitat de 480 Mb/s.</li>
+              <li>El USB 3.2 gen 1 (el de color blau) té una velocitat de 4.8 Gb/s.</li>
+              <li>El USB 3.2 gen 2 (el de color vermell) té una velocitat de 10 Gb/s.</li>
             </ul>
           </p>
         <!-- Trigger the modal with a button -->
