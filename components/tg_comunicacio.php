@@ -50,7 +50,7 @@
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
             Aquesta connexió wifi fa servir la connexió per PCIe x1.<br>
-            Aquesta targeta suporta 1000 Mbps de connexió.
+            Aquesta targeta suporta 300 Mbit/s de transferència de dades.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -80,8 +80,8 @@
         <h1 class="titolcp">Ethernet RJ45</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
-        Va a una velocitat de 6 Gbit/s.
+            Aquesta connexió ethernet RJ45 fa servir la connexió per PCIe x1.<br>
+            Aquesta targeta suporta 1000 Mbps de transferència de dades.
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
