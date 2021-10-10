@@ -50,7 +50,7 @@
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
             La connexió RJ-45 que va integrada a la placa base serveix per connectar-te a internet per cable.<br>
-            Aquesta targeta suporta 10000 Mbps de transferència de dades.
+            Aquesta targeta suporta 5 GB/s de descàrrega.
           </p>
 
         <!-- Trigger the modal with a button -->
