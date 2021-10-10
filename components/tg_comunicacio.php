@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Disc durs interns</title>
+        <title>Targes de Comunicació</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
@@ -16,7 +16,7 @@
                 <a href="#" class="fletxas">Connexions Comunicació Integrades a la placa + placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Disc + Connexions Integrades Internes de Disc Dur + Placa</h1>
+        <h1 class="titolcp">Targes de Comunicació + Slots d’Expansió a la PB + Placa</h1>
         <div class="imgcent">
             <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
@@ -43,13 +43,14 @@
         
           </div>
         </div>
-        <h1 class="titolcp">M.2</h1>
+        <h1 class="titolcp">WIFI</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/tc_wifi.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat, va a una velocitat de 6 Gbit/s.
+            Aquesta connexió wifi fa servir la connexió per PCIe x1.<br>
+            Aquesta targeta suporta 1000 Mbps de connexió.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -63,10 +64,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">M.2</h4>
+                <h4 class="modal-title">WIFI</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/tc_wifi.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -76,7 +77,7 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">SATA 3</h1>
+        <h1 class="titolcp">Ethernet RJ45</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
         El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
@@ -93,10 +94,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">SATA 3</h4>
+                <h4 class="modal-title">Ethernet RJ45</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/tc_ethernet.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -107,7 +108,7 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/tc_ethernet.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <h1 class="titolcp">Disc dur M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
