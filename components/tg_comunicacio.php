@@ -102,7 +102,7 @@
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-         <!--   </div>
+           </div>
 
           </div>
         </div>
@@ -110,7 +110,7 @@
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/tc_ethernet.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Disc dur M.2</h1>
+        <!-- <h1 class="titolcp">Disc dur M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
