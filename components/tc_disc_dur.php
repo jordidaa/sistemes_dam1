@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Disc durs interns</title>
+        <title>Targes de connexió de disc dur</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
