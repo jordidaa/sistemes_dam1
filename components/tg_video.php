@@ -78,7 +78,7 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Conexions targetes grafiques modernes</h1>
+        <h1 class="titolcp">Conexions targetes de video modernes</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
           Les targestes grafiques actuals fan servir <a href="video_int.php">DisplayPort i HDMI</a>.<br>
