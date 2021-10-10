@@ -12,14 +12,13 @@
         <!--index-->
         <div class="center">
             <div class="pagination">
-                <a href="tc_disc_dur.php" class="fletxas">&laquo;Disc + Targes de connexió de disc dur (connexió interna i/o externa) + 
-                Slots d’Expansió a la PB + Placa</a>
-                <a href="tg_video.php" class="fletxas"> Targes de Video + Slots d’Expansió a la PB + Placa &raquo; </a>
+                <a href="video_int.php" class="fletxas">&laquo; Connexions de Video Integrades + Placa</a>
+                <a href="" class="fletxas">Connexions d’Audio Integrades (Tipus, color) + Placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Connexions de Video Integrades + Placa</h1>
+        <h1 class="titolcp">Targes de Video + Slots d’Expansió a la PB + Placa</h1>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
@@ -35,7 +34,7 @@
                 <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
-                <img id="myImg" class="imgcentbtn" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:600px">
+                <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -44,15 +43,15 @@
         
           </div>
         </div>
-        <h1 class="titolcp">HDMI</h1>
+        <h1 class="titolcp">Targeta de video</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/hdmi.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          L'HDMI és una manera de connectar la placa base a una pantalla, va sortir al marcat el 2003.<br>
-          L'HDMI tanmateix so i vídeo.<br>
-          Té una màxima resolució de 2560x1440p60.
+          Les targes de video serveixen per ampliar els conectors de video i la qualitat del video.<br>
+          Normalment la connexió es fa a partir de PCIe x16.<br>
+          Pot arribar a una resolucio de pantalla de 7680x4320.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -66,10 +65,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">HDMI</h4>
+                <h4 class="modal-title">Targeta de video</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/hdmi.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -79,13 +78,16 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">DisplayPort</h1>
+        <h1 class="titolcp">Conexions targetes grafiques modernes</h1>
         <div class="col-sm-5 col-md-6 cent md">
-        <p> 
-        El DisplayPort és una manera de connectar la placa base a una pantalla, va sortir al marcat el 2008.<br>
-          El DisplayPort tanmateix so i vídeo.<br>
-          Té una màxima resolució de 4096 x 2160.
-          </p>
+        <p>
+          Les targestes grafiques actuals fan servir <a href="video_int.php">DisplayPort i HDMI</a>.<br>
+          Aquesta targeta grafica te:
+          <ul>
+            <li>3 DisplayPort</li>
+            <li>1 HDMI</li>
+          </ul>
+        </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
 
@@ -97,10 +99,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">DisplayPort</h4>
+                <h4 class="modal-title">M.2 a PCIe x4</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/dp.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -111,28 +113,28 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/dp.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <!--<h1 class="titolcp">Disc dur a PCIe x2</h1>
+        <h1 class="titolcp">Disc dur a PCIe x2</h1>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Targeta de ampliacio de disc durs HDD i SSD.<br>
-          La conexio es fa a partir de PCIe x2.<br>
-          Te una velocitat de transferencia de dades de 6 Gbit/s.
+          Targeta d'ampliació de disc dur HDD i SSD.<br>
+          La connexió es fa a partir de PCIe x2.<br>
+          Té una velocitat de transferència de dades de 6 Gbit/s.
         </p>
 
-         Trigger the modal with a button -->
-        <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
+        <!-- Trigger the modal with a button -->
+          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
 
-         Modal -->
-        <!--<div class="modal fade" id="myModal3" role="dialog">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal3" role="dialog">
           <div class="modal-dialog">
 
-             Modal content-->
-            <!--<div class="modal-content">
+            <!-- Modal content-->
+            <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Disc dur a PCIe x2</h4>
@@ -140,14 +142,14 @@
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <div class="modal-footer">
+              <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
+              </div>-->
             </div>
 
           </div>
         </div>
-        </div>-->
+        </div>
         <!--<h1 class="titolcp">Disc dur SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
