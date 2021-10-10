@@ -13,7 +13,7 @@
         <div class="center">
             <div class="pagination">
             <a href="tg_comunicacio.php" class="fletxas">&laquo; Targes de Comunicació + Slots d’Expansió a la PB + Placa</a>
-                <a href="#" class="fletxas">Adaptadors de Comunicació a partir de USB &raquo; </a>
+                <a href="adaptadors_usb.php" class="fletxas">Adaptadors de Comunicació a partir de USB &raquo; </a>
             </div>
         </div>
         <h1 class="titolcp">Connexions Comunicació Integrades a la placa + placa</h1>
