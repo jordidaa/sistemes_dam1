@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Disc durs externs</title>
+        <title>Connexions d'àudio</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
