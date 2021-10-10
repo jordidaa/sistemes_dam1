@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Targetes gràfiques</title>
+        <title>Disc durs externs</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
@@ -12,13 +12,13 @@
         <!--index-->
         <div class="center">
             <div class="pagination">
-                <a href="video_int.php" class="fletxas">&laquo; Connexions de Video Integrades + Placa</a>
-                <a href="audio.php" class="fletxas">Connexions d’Audio Integrades (Tipus, color) + Placa &raquo; </a>
+            <a href="tg_video.php" class="fletxas">&laquo; Targes de Video + Slots d’Expansió a la PB + Placa</a>
+                <a href="#" class="fletxas">Targes de Comunicació + Slots d’Expansió a la PB + Placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Targes de Video + Slots d’Expansió a la PB + Placa</h1>
+        <h1 class="titolcp">Disc + Connexions Integrades Externes de Disc Dur + Placa</h1>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
@@ -34,7 +34,7 @@
                 <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
-                <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
+                <img id="myImg" class="imgcentbtn" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:600px">
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -43,17 +43,20 @@
         
           </div>
         </div>
-        <h1 class="titolcp">Targeta de vídeo</h1>
+        <h1 class="titolcp">USB</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/usb.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <p> 
-          Les targetes de vídeo serveixen per ampliar els connectors de vídeo i la qualitat del vídeo.<br>
-          Normalment la connexió es fa a partir de PCIe x16.<br>
-          Pot arribar a una resolució de pantalla de 7680x4320.
+          <p>
+          Serveix per connectar perifèrics: teclat, ratoli, disc dur, usb ... <br>
+          Hi ha diferents tipus de usb que tenen diferents velocitats segons la versió:
+            <ul>
+              <li>El USB 2.0 (el de color negre) té una velocitat de 480 Mb/s.</li>
+              <li>El USB 3.2 gen 1 (el de color blau) té una velocitat de 4.8 Gb/s.</li>
+              <li>El USB 3.2 gen 2 (el de color vermell) té una velocitat de 10 Gb/s.</li>
+            </ul>
           </p>
-
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal1">Veure imatge gran</button>
 
@@ -65,10 +68,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Targeta de vídeo</h4>
+                <h4 class="modal-title">USB</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/usb.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -78,15 +81,10 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Connexions targetes de vídeo modernes</h1>
+        <h1 class="titolcp">Disc dur extern 3.1 gen 1</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Les targetes gràfiques actuals fan servir <a href="video_int.php">DisplayPort i HDMI</a>.<br>
-          Aquesta targeta gràfica té:
-          <ul>
-            <li>3 DisplayPort</li>
-            <li>1 HDMI</li>
-          </ul>
+        Aquest disc dur 3.1 gen 1 va a una velocitat de 5000 Mbit/s.
         </p>
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
@@ -99,10 +97,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Connexions targetes de vídeo modernes</h4>
+                <h4 class="modal-title">Disc dur extern 3.1 gen 1</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -113,20 +111,20 @@
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Connexions targetes de vídeo antigues</h1>
+        <h1 class="titolcp">Disc dur extern 3.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/grafica_3.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-        <p>
-          En aquesta targeta gràfica hi ha 2 tipus de connexió:
-          <ul>
-            <li>1 VGA: és un connector que només serveix per connexió de vídeo digital, no passen àudio.</li>
-            <li>1 DVI-D: és un connector que només serveix per connexió de vídeo digital, no passen àudio.</li>
-          </ul>
-        </p>
+          <p> 
+          Aquest disc dur extern 3.2 té diferents velocitats d'escriptura i lectura:
+            <ul>
+              <li>Té una velocitat d'escriptura de 1000 MB/s.</li>
+              <li>Té una velocitat de lectura de 1050 MB/s.</li>
+            </ul>
+          </p>
 
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
@@ -139,10 +137,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Connexions targetes de vídeo antigues</h4>
+                <h4 class="modal-title">Disc dur extern 3.2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/grafica_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -160,15 +158,15 @@
               <li>Té una velocitat d'escriptura i de lectura de 150 MB/s.</li>
               <li>El disc dur va a 7200 revolucions per minut.</li>
             </ul>
-        </p>
-         Trigger the modal with a button -->
-        <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>
+        </p>-->
+        <!-- Trigger the modal with a button -->
+          <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>-->
 
-         Modal -->
+        <!-- Modal -->
         <!--<div class="modal fade" id="myModal4" role="dialog">
-          <div class="modal-dialog">
+          <div class="modal-dialog">-->
 
-             Modal content-->
+            <!-- Modal content-->
             <!--<div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
@@ -176,11 +174,11 @@
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/sata_3_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
-              </div>
-              <div class="modal-footer">
+              </div>-->
+              <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-              </div>
-            </div>
+              </div>-->
+            <!--</div>
 
           </div>
         </div>
