@@ -16,7 +16,7 @@
                 <a href="#" class="fletxas">Targes de Comunicació + Slots d’Expansió a la PB + Placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Disc + Connexions Integrades Externes de Disc Dur + Placa</h1>
+        <h1 class="titolcp">Connexions d’Audio Integrades (Tipus, color) + Placa</h1>
         <div class="imgcent">
             <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
@@ -43,18 +43,20 @@
         
           </div>
         </div>
-        <h1 class="titolcp">USB</h1>
+        <h1 class="titolcp">Connexions d'àudio</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/usb.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/conex_audio.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p>
-          Serveix per connectar perifèrics: teclat, ratoli, disc dur, usb ... <br>
-          Hi ha diferents tipus de usb que tenen diferents velocitats segons la versió:
+            Hi ha diferents connectors d'àudio, que normalment estan amb els colors de la imatge, però també pot estar amb un únic color:
             <ul>
-              <li>El USB 2.0 (el de color negre) té una velocitat de 480 Mb/s.</li>
-              <li>El USB 3.2 gen 1 (el de color blau) té una velocitat de 4.8 Gb/s.</li>
-              <li>El USB 3.2 gen 2 (el de color vermell) té una velocitat de 10 Gb/s.</li>
+              <li>Blau: Entrada d'àudio.</li>
+              <li>Verd: Sortida d'àudio.</li>
+              <li>Rosa: Entrada de micròfon.</li>
+              <li>Taronja: Sortida d'àudio per connectar altaveus centrals o subwoofer.</li>
+              <li>Negre: Sortida d'àudio per connectar altaveus de darrera.</li>
+              <li>Gris: Sortida d'àudio per connectar altaveus de davant.</li>
             </ul>
           </p>
         <!-- Trigger the modal with a button -->
@@ -68,10 +70,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">USB</h4>
+                <h4 class="modal-title">Connexions d'àudio</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/usb.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/conex_audio.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -81,20 +83,20 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Disc dur extern 3.1 gen 1</h1>
+        <!--<h1 class="titolcp">Disc dur extern 3.1 gen 1</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
         Aquest disc dur 3.1 gen 1 va a una velocitat de 5000 Mbit/s.
         </p>
-        <!-- Trigger the modal with a button -->
-          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
+         Trigger the modal with a button -->
+        <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
 
-        <!-- Modal -->
-        <div class="modal fade" id="myModal2" role="dialog">
+         Modal -->
+         <!--<div class="modal fade" id="myModal2" role="dialog">
           <div class="modal-dialog">
 
-            <!-- Modal content-->
-            <div class="modal-content">
+            Modal content-->
+            <!--<div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Disc dur extern 3.1 gen 1</h4>
@@ -102,10 +104,10 @@
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <!--<div class="modal-footer">
+              <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-            </div>
+           <!--  </div>
 
           </div>
         </div>
@@ -126,15 +128,15 @@
             </ul>
           </p>
 
-        <!-- Trigger the modal with a button -->
-          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
+        Trigger the modal with a button -->
+          <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
 
-        <!-- Modal -->
-        <div class="modal fade" id="myModal3" role="dialog">
+         Modal -->
+        <!--<div class="modal fade" id="myModal3" role="dialog">
           <div class="modal-dialog">
 
-            <!-- Modal content-->
-            <div class="modal-content">
+             Modal content-->
+            <!--<div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Disc dur extern 3.2</h4>
@@ -142,15 +144,15 @@
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <!--<div class="modal-footer">
+              <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-            </div>
+           <!-- </div>
 
           </div>
         </div>
         </div>
-        <!--<h1 class="titolcp">Disc dur SATA 3</h1>
+        <h1 class="titolcp">Disc dur SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
         Aquest disc dur SATA 3 té diferents velocitats de lectura, escriptura i a les revolucions que van:
