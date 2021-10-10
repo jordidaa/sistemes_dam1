@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Connexions d'àudio</title>
+        <title>Disc durs interns</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
@@ -12,13 +12,13 @@
         <!--index-->
         <div class="center">
             <div class="pagination">
-            <a href="tg_video.php" class="fletxas">&laquo; Targes de Video + Slots d’Expansió a la PB + Placa</a>
-                <a href="tg_comunicacio.php" class="fletxas">Targes de Comunicació + Slots d’Expansió a la PB + Placa &raquo; </a>
+            <a href="audio.php" class="fletxas">&laquo; Connexions d’Audio Integrades (Tipus, color) + Placa</a>
+                <a href="#" class="fletxas">Connexions Comunicació Integrades a la placa + placa &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Connexions d’Audio Integrades (Tipus, color) + Placa</h1>
+        <h1 class="titolcp">Disc + Connexions Integrades Internes de Disc Dur + Placa</h1>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
@@ -34,7 +34,7 @@
                 <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
-                <img id="myImg" class="imgcentbtn" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:600px">
+                <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -43,22 +43,15 @@
         
           </div>
         </div>
-        <h1 class="titolcp">Connexions d'àudio</h1>
+        <h1 class="titolcp">M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/conex_audio.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <p>
-            Hi ha diferents connectors d'àudio, que normalment estan amb els colors de la imatge, però també pot estar amb un únic color:
-            <ul>
-              <li>Blau: Entrada d'àudio.</li>
-              <li>Verd: Sortida d'àudio.</li>
-              <li>Rosa: Entrada de micròfon.</li>
-              <li>Taronja: Sortida d'àudio per connectar altaveus centrals o subwoofer.</li>
-              <li>Negre: Sortida d'àudio per connectar altaveus de darrera.</li>
-              <li>Gris: Sortida d'àudio per connectar altaveus de davant.</li>
-            </ul>
+          <p> 
+          El M.2 és la connexió de Disc dur amb placa base més ràpida que hi ha en el mercat, va a una velocitat de 6 Gbit/s.
           </p>
+
         <!-- Trigger the modal with a button -->
           <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal1">Veure imatge gran</button>
 
@@ -70,10 +63,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Connexions d'àudio</h4>
+                <h4 class="modal-title">M.2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/conex_audio.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/m_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -83,71 +76,72 @@
           </div>
         </div>
         </div>
-        <!--<h1 class="titolcp">Disc dur extern 3.1 gen 1</h1>
+        <h1 class="titolcp">SATA 3</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-        Aquest disc dur 3.1 gen 1 va a una velocitat de 5000 Mbit/s.
+        El SATA 3 va a la mateixa velocitat que M.2 però perd velocitat perquè s'ha de connectar a partir d'un cable.
+        Va a una velocitat de 6 Gbit/s.
         </p>
-         Trigger the modal with a button -->
-        <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
+        <!-- Trigger the modal with a button -->
+          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
 
-         Modal -->
-         <!--<div class="modal fade" id="myModal2" role="dialog">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal2" role="dialog">
           <div class="modal-dialog">
 
-            Modal content-->
-            <!--<div class="modal-content">
+            <!-- Modal content-->
+            <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Disc dur extern 3.1 gen 1</h4>
+                <h4 class="modal-title">SATA 3</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <div class="modal-footer">
+              <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-           <!--  </div>
+            </div>
 
           </div>
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/dd_3_0.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/sata_3.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Disc dur extern 3.2</h1>
+        <h1 class="titolcp">Disc dur M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Aquest disc dur extern 3.2 té diferents velocitats d'escriptura i lectura:
+          Aquest disc dur M.2 té diferents velocitats d'escriptura i lectura:
             <ul>
-              <li>Té una velocitat d'escriptura de 1000 MB/s.</li>
-              <li>Té una velocitat de lectura de 1050 MB/s.</li>
+              <li>Té una velocitat d'escriptura de 530 MB/s.</li>
+              <li>Té una velocitat de lectura de 560 MB/s.</li>
             </ul>
           </p>
 
-        Trigger the modal with a button -->
-          <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
+        <!-- Trigger the modal with a button -->
+          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal3">Veure imatge gran</button>
 
-         Modal -->
-        <!--<div class="modal fade" id="myModal3" role="dialog">
+        <!-- Modal -->
+        <div class="modal fade" id="myModal3" role="dialog">
           <div class="modal-dialog">
 
-             Modal content-->
-            <!--<div class="modal-content">
+            <!-- Modal content-->
+            <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Disc dur extern 3.2</h4>
+                <h4 class="modal-title">Disc dur M.2</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/dd_3_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <div class="modal-footer">
+              <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-           <!-- </div>
+            </div>
 
           </div>
         </div>
@@ -160,34 +154,34 @@
               <li>Té una velocitat d'escriptura i de lectura de 150 MB/s.</li>
               <li>El disc dur va a 7200 revolucions per minut.</li>
             </ul>
-        </p>-->
+        </p>
         <!-- Trigger the modal with a button -->
-          <!--<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>-->
+          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal4">Veure imatge gran</button>
 
         <!-- Modal -->
-        <!--<div class="modal fade" id="myModal4" role="dialog">
-          <div class="modal-dialog">-->
+        <div class="modal fade" id="myModal4" role="dialog">
+          <div class="modal-dialog">
 
             <!-- Modal content-->
-            <!--<div class="modal-content">
+            <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Disc dur SATA 3</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/sata_3_dd.png" alt="Placa base" style="width:100%;max-width:600px"> 
-              </div>-->
+              </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-            <!--</div>
+            </div>
 
           </div>
         </div>
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/sata_3_dd.png" alt="Placa base" style="width:100%;max-width:250px">
-        </div>-->
+        </div>
     </body>
     <?php include ('../includes/meta_footer.php') ?>
 </html>
