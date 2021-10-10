@@ -12,13 +12,13 @@
         <!--index-->
         <div class="center">
             <div class="pagination">
-            <a href="audio.php" class="fletxas">&laquo; Connexions d’Audio Integrades (Tipus, color) + Placa</a>
-                <a href="tg_comunicacio_intagrades.php" class="fletxas">Connexions Comunicació Integrades a la placa + placa &raquo; </a>
+            <a href="tg_comunicacio.php" class="fletxas">&laquo; Targes de Comunicació + Slots d’Expansió a la PB + Placa</a>
+                <a href="#" class="fletxas">Adaptadors de Comunicació a partir de USB &raquo; </a>
             </div>
         </div>
-        <h1 class="titolcp">Targes de Comunicació + Slots d’Expansió a la PB + Placa</h1>
+        <h1 class="titolcp">Connexions Comunicació Integrades a la placa + placa</h1>
         <div class="imgcent">
-            <img id="myImg" class="imgcent1" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:400px">
+            <img id="myImg" class="imgcent1" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:400px">
         </div>
         <!-- Trigger the modal with a button -->
         <button type="button" class="btn btn-info btn-lg centbtn" data-toggle="modal" data-target="#myModal">Veure imatge gran</button>
@@ -34,7 +34,7 @@
                 <h4 class="modal-title">Placa Base</h4>
               </div>
               <div class="modal-body">
-                <img id="myImg" class="imgcentbtn" src="../images/pb_sf.png" alt="Placa base" style="width:100%;max-width:600px">
+                <img id="myImg" class="imgcentbtn" src="../images/pb_sf_usb.png" alt="Placa base" style="width:100%;max-width:600px">
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -43,13 +43,13 @@
         
           </div>
         </div>
-        <h1 class="titolcp">WIFI</h1>
+        <h1 class="titolcp">Ethernet RJ45</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/tc_wifi.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/ethernet.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-            Aquesta connexió wifi fa servir la connexió per PCIe x1.<br>
+            La connexió RJ-45 que va integrada a la placa base serveix per connectar-te a internet per cable.<br>
             Aquesta targeta suporta 300 Mbit/s de transferència de dades.
           </p>
 
@@ -64,10 +64,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">WIFI</h4>
+                <h4 class="modal-title">Ethernet RJ45</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/tc_wifi.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/ethernet.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -77,21 +77,21 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Ethernet RJ45</h1>
+        <!--<h1 class="titolcp">Ethernet RJ45</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
             Aquesta connexió ethernet RJ45 fa servir la connexió per PCIe x1.<br>
             Aquesta targeta suporta 1000 Mbps de transferència de dades.
         </p>
-        <!-- Trigger the modal with a button -->
-          <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
+         Trigger the modal with a button -->
+        <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal2">Veure imatge gran</button>
 
-        <!-- Modal -->
-        <div class="modal fade" id="myModal2" role="dialog">
+         Modal -->
+        <!--<div class="modal fade" id="myModal2" role="dialog">
           <div class="modal-dialog">
 
-            <!-- Modal content-->
-            <div class="modal-content">
+             Modal content-->
+           <!-- <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
                 <h4 class="modal-title">Ethernet RJ45</h4>
@@ -99,10 +99,10 @@
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/tc_ethernet.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
-              <!--<div class="modal-footer">
+              <div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
               </div>-->
-           </div>
+         <!--  </div>
 
           </div>
         </div>
@@ -110,7 +110,7 @@
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/tc_ethernet.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <!-- <h1 class="titolcp">Disc dur M.2</h1>
+         <h1 class="titolcp">Disc dur M.2</h1>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/m_2_dd.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
