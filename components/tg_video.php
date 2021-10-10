@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Disc durs interns</title>
+        <title>Targetes gràfiques</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
@@ -43,15 +43,15 @@
         
           </div>
         </div>
-        <h1 class="titolcp">Targeta de video</h1>
+        <h1 class="titolcp">Targeta de vídeo</h1>
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
           <p> 
-          Les targes de video serveixen per ampliar els conectors de video i la qualitat del video.<br>
+          Les targetes de vídeo serveixen per ampliar els connectors de vídeo i la qualitat del vídeo.<br>
           Normalment la connexió es fa a partir de PCIe x16.<br>
-          Pot arribar a una resolucio de pantalla de 7680x4320.
+          Pot arribar a una resolució de pantalla de 7680x4320.
           </p>
 
         <!-- Trigger the modal with a button -->
@@ -65,7 +65,7 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Targeta de video</h4>
+                <h4 class="modal-title">Targeta de vídeo</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/grafica_1.png" alt="Placa base" style="width:100%;max-width:600px"> 
@@ -78,11 +78,11 @@
           </div>
         </div>
         </div>
-        <h1 class="titolcp">Conexions targetes de video modernes</h1>
+        <h1 class="titolcp">Connexions targetes de vídeo modernes</h1>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Les targestes grafiques actuals fan servir <a href="video_int.php">DisplayPort i HDMI</a>.<br>
-          Aquesta targeta grafica te:
+          Les targetes gràfiques actuals fan servir <a href="video_int.php">DisplayPort i HDMI</a>.<br>
+          Aquesta targeta gràfica té:
           <ul>
             <li>3 DisplayPort</li>
             <li>1 HDMI</li>
@@ -99,7 +99,7 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">M.2 a PCIe x4</h4>
+                <h4 class="modal-title">Connexions targetes de vídeo modernes</h4>
               </div>
               <div class="modal-body">
               <img id="myImg" class="imgcentbtn" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:600px"> 
@@ -115,15 +115,17 @@
         <div class="col-sm-5 col-md-6 cent md">
           <img id="myImg" class="imgcent2" src="../images/grafica_2.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
-        <h1 class="titolcp">Disc dur a PCIe x2</h1>
+        <h1 class="titolcp">Connexions targetes de vídeo antigues</h1>
         <div class="col-sm-5 col-md-6 cent md">
-          <img id="myImg" class="imgcent2" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:250px">
+          <img id="myImg" class="imgcent2" src="../images/grafica_3.png" alt="Placa base" style="width:100%;max-width:250px">
         </div>
         <div class="col-sm-5 col-md-6 cent md">
         <p>
-          Targeta d'ampliació de disc dur HDD i SSD.<br>
-          La connexió es fa a partir de PCIe x2.<br>
-          Té una velocitat de transferència de dades de 6 Gbit/s.
+          En aquesta targeta gràfica hi ha 2 tipus de connexió:
+          <ul>
+            <li>1 VGA: és un connector que només serveix per connexió de vídeo digital, no passen àudio.</li>
+            <li>1 DVI-D: és un connector que només serveix per connexió de vídeo digital, no passen àudio.</li>
+          </ul>
         </p>
 
         <!-- Trigger the modal with a button -->
@@ -137,10 +139,10 @@
             <div class="modal-content">
               <div class="modal-header">
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
-                <h4 class="modal-title">Disc dur a PCIe x2</h4>
+                <h4 class="modal-title">Connexions targetes de vídeo antigues</h4>
               </div>
               <div class="modal-body">
-              <img id="myImg" class="imgcentbtn" src="../images/dd_expan.png" alt="Placa base" style="width:100%;max-width:600px"> 
+              <img id="myImg" class="imgcentbtn" src="../images/grafica_3.png" alt="Placa base" style="width:100%;max-width:600px"> 
               </div>
               <!--<div class="modal-footer">
                 <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
