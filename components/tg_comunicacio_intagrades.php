@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Targes de Comunicació</title>
+        <title>Connexions integrades a la placa base</title>
         <?php include ('../includes/meta_heder.php') ?>
     </head>    
     <body>
